@@ -1,0 +1,83 @@
+[
+    {
+      "id": "1",
+      "title": "Découvrir React.js",
+      "description": "Apprenez à créer des interfaces dynamiques avec React.",
+      "image": "https://picsum.photos/id/1/5000/3333",
+      "content": "React.js est une bibliothèque JavaScript développée par Meta, utilisée pour construire des interfaces utilisateur performantes avec des composants réutilisables.",
+      "createdAt": "2025-04-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Créer un backend avec NestJS",
+      "description": "NestJS, le framework Node.js inspiré d’Angular.",
+      "image": "https://picsum.photos/id/2/5000/3333",
+      "content": "NestJS permet de développer des APIs robustes, modulaires et maintenables. Il s’appuie sur TypeScript et le principe d’injection de dépendances.",
+      "createdAt": "2025-04-02T12:15:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Développer des apps mobiles avec React Native",
+      "description": "Utilisez JavaScript pour créer des applications iOS et Android.",
+      "image": "https://picsum.photos/id/3/5000/3333",
+      "content": "React Native vous permet de développer des applications mobiles natives avec une base de code JavaScript, en réutilisant les composants React.",
+      "createdAt": "2025-04-03T08:30:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Construire une API REST avec Express.js",
+      "description": "Express.js, la solution rapide pour les APIs Node.js.",
+      "image": "https://picsum.photos/id/4/5000/3333",
+      "content": "Express est un framework minimaliste et flexible pour Node.js, souvent utilisé pour créer des APIs REST ou des serveurs web.",
+      "createdAt": "2025-04-04T14:45:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Stocker ses données avec PostgreSQL",
+      "description": "Un système de gestion de base de données open source puissant.",
+      "image": "https://picsum.photos/id/5/5000/3333",
+      "content": "PostgreSQL est un SGBD relationnel très fiable, offrant de puissantes fonctionnalités comme les transactions ACID, les fonctions stockées et le support JSON.",
+      "createdAt": "2025-04-05T09:50:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Démarrer avec Docker",
+      "description": "Conteneurisez vos applications pour plus de portabilité.",
+      "image": "https://picsum.photos/id/6/5000/3333",
+      "content": "Docker permet de packager votre application avec toutes ses dépendances dans un conteneur pour faciliter le déploiement et l’isolation des environnements.",
+      "createdAt": "2025-04-06T16:10:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Utiliser Prisma comme ORM",
+      "description": "Le mapping objet-relationnel moderne pour Node.js.",
+      "image": "https://picsum.photos/id/7/5000/3333",
+      "content": "Prisma facilite l'accès à la base de données en générant automatiquement un client type-safe basé sur votre schéma de données.",
+      "createdAt": "2025-04-07T11:20:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Authentification sécurisée avec Auth0",
+      "description": "Intégrer une solution d’authentification clé en main.",
+      "image": "https://picsum.photos/id/8/5000/3333",
+      "content": "Auth0 fournit une plateforme complète pour gérer l’authentification des utilisateurs via OAuth, JWT, et les providers sociaux comme Google ou GitHub.",
+      "createdAt": "2025-04-08T13:05:00Z"
+    },
+    {
+      "id": "9",
+      "title": "CI/CD avec GitHub Actions",
+      "description": "Automatiser vos workflows de build et de déploiement.",
+      "image": "https://picsum.photos/id/9/5000/3333",
+      "content": "GitHub Actions vous permet de créer des workflows d’intégration et de déploiement continus directement dans vos dépôts GitHub.",
+      "createdAt": "2025-04-09T15:30:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Analyser son code avec ESLint",
+      "description": "Améliorez la qualité de votre code JavaScript.",
+      "image": "https://picsum.photos/id/10/5000/3333",
+      "content": "ESLint détecte les erreurs et les problèmes de style dans votre code JavaScript/TypeScript. C’est un outil essentiel pour maintenir une base de code propre et cohérente.",
+      "createdAt": "2025-04-10T10:40:00Z"
+    }
+  ]
+  
